@@ -1,0 +1,7 @@
+a=input("Total marks")
+b=input("percentage")
+c=input("GPA")
+a=int(a)
+b=float(b)
+c=float(c)
+print("Total marks obtained is %d and percentage is %f and GPA is %.2f" %(a,b,c))
